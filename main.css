@@ -1,0 +1,97 @@
+body 
+    {
+    background-color:ivory;
+    font-family: monospace;
+    }
+
+.txt 
+    {text-align: center;
+    }
+.impact {font-family: Impact;
+    }
+
+.margin {
+    margin-top: -15px;
+}
+
+img {
+    max-width: 100%
+  }
+  
+.image {
+    flex-basis: 40%
+  }
+
+#menu li {
+    text-align: center;
+  }
+
+.blog {
+    font-size: 14px;
+    width: 1200px;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 60px;
+    background-color: blanchedalmond;
+    text-align: left;
+    }
+
+.briggs {
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: ivory;
+}
+
+.tab {
+    margin-left:10%; margin-right:10%
+}
+
+.text {
+    font-size: 14px;
+    padding-left: 20px;
+  }  
+
+h1 {
+    color: Navy;
+    font-family: 'Nerko One', cursive;
+    background-color: rgb(235, 235, 235);
+    letter-spacing: 3px;
+    border-radius: 10px;
+    }
+
+h2 {margin-block-start: auto;
+   }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+hr {
+    Width:20%;
+    height: 2px;
+    background-color: black;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;  
+  }
+
+img.rounded-corners {
+    border-radius: 20px;
+  }
+
+.row {
+    line-height: 5;
+}
+
+.container {
+    display: flex;
+    align-items:left;
+    justify-content:left;s
+  }
+
